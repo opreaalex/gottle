@@ -1,2 +1,2 @@
 # gottle
-A web microframework inspired by Bottle (https://github.com/bottlepy/bottle)
+A Go rework of the Bottle microframework (https://github.com/bottlepy/bottle)
